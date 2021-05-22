@@ -1,0 +1,28 @@
+{
+  "name": "auth-test",
+  "version": "1.0.0",
+  "description": "Arius api auth test",
+  "main": "arius.js",
+  "scripts": {
+    "test": "node arius.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuleymanb/auth-test.git"
+  },
+  "keywords": [
+    "Arius",
+    "Api",
+    "Arius-api",
+    "auth-test"
+  ],
+  "author": "tB",
+  "license": "Apache-2.0 License",
+  "bugs": {
+    "url": "https://github.com/tuleymanb/auth-test/issues"
+  },
+  "homepage": "https://github.com/tuleymanb/auth-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
